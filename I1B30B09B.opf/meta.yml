@@ -1,0 +1,16 @@
+id: I1B30B09B
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:06:43.009835
+last_modified: 2023-02-08 15:06:43.009965
+source_metadata:
+  title: 'BA: Gaṇḍavyūhasūtra'
+  language: sa
+bases:
+  '0770':
+    base_file: 0770.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
